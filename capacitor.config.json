@@ -1,0 +1,6 @@
+{
+  "appId": "com.barcodescannerdebug",
+  "appName": "Barcode Scanner Debug",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
